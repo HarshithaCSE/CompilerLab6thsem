@@ -1,0 +1,14 @@
+{
+	int a[20],b[10][2],i,j,k;
+	if(i<j){
+		i=0;
+	}
+	else{
+		j=0;
+	}
+	while(i<k && j<k){
+		a[3]=i;
+		j=k;
+	}
+	j=k;
+}

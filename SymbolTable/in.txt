@@ -1,0 +1,13 @@
+{
+	int x;
+	float y;
+	{
+		char z='z';
+	}
+	{
+		int a=15;
+		{
+			float a,b;
+		}
+	}
+}

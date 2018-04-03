@@ -1,0 +1,3 @@
+This program removes dangling else conflict.
+Appends else for unmatched if.
+Works for nested if too.

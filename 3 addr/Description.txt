@@ -1,0 +1,1 @@
+Generates three address statements for expressions having arithmetic operators in the input file given.

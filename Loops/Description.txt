@@ -1,0 +1,1 @@
+This program converts for loop and do-while loop into while loop.
